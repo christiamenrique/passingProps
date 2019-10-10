@@ -3,7 +3,7 @@ This was build using React. I pass down text , first, last, textTwo, number usin
 
 # Install
 * Open terminal 
-* git clone 
+* git clone https://github.com/christiamenrique/passingProps.git
 * npm install
 * npm start
 
